@@ -1,11 +1,13 @@
 # ChatGPT-vs-ChatPGT
-Conversation between bots.
 
-## API KEY
-```.env```
+# GConversation between bots.
 
-## Install
+This is a simple chatbot that uses OpenAI's GPT-3 API to generate responses to user input with Gradio. 
+
 ```pip install -r requirements.txt```
 
-## Run
-```python app.py```
+```bash
+python app.py
+```
+
+# API KEY stored in  ```.env```
