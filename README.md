@@ -8,3 +8,5 @@ python app.py
 ```
 
 API KEY stored in  ```.env```
+
+Interface: ```http://127.0.0.1:7860/```
