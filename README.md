@@ -1,8 +1,7 @@
 # ChatGPT-vs-ChatPGT
 
-# GConversation between bots.
 
-This is a simple chatbot that uses OpenAI's GPT-3 API to generate responses to user input with Gradio. 
+This is a simple chatbot that uses OpenAI's API to generate responses from bot to bot with Gradio. 
 
 ```bash
 python app.py
